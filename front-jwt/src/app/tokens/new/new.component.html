@@ -1,0 +1,10 @@
+<form [formGroup]="newToken" (ngSubmit)="create()">
+  <mat-form-field>
+    <mat-label>User ID</mat-label>
+    <mat-select formControlName="user_id">
+      <mat-option *ngFor="let user of users | async" [value]="user._id">{{user.firstname + ' ' + user.lastname}}</mat-option>
+    </mat-select>
+  </mat-form-field>
+
+  <button [disabled]="newToken.invalid" mat-raised-button color="primary">OK</button>
+</form>

@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "_id": "1",
+      "firstname": "bastien",
+      "lastname": "mercier",
+      "email": "bastien.mercier@capgemini.com",
+      "password": "$2b$10$8iZJwS5deu0jGbuMrBpqdODHa.f.x75fFkpErrEmI3j5LarXQH6i.",
+      "tokens": {
+        "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxIiwiaXNzIjoibG9jYWxob3N0IiwiYXVkIjoibG9jYWxob3N0IiwiaWF0IjoxNTYxODMwMzcyLCJleHAiOjE1NjE4MzAzODJ9.S-_P2TenX2V_ILWitzqsUKxdaVYy7kv_oQhGhRgv_Jk",
+        "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxIiwiaXNzIjoibG9jYWxob3N0IiwiYXVkIjoibG9jYWxob3N0IiwiaWF0IjoxNTYxODMwMzcyLCJleHAiOjE1NjE5MTY3NzJ9.MokRi2a72iP3KJtLqz-3Hz_azPhTLllwgUKIs4RKhSo"
+      }
+    },
+    {
+      "_id": "2",
+      "firstname": "toto",
+      "lastname": "toto",
+      "email": "toto",
+      "password": "$2b$10$8iZJwS5deu0jGbuMrBpqdODHa.f.x75fFkpErrEmI3j5LarXQH6i."
+    }
+  ],
+  "refresh_token": [
+    {
+      "_id": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxIiwiaXNzIjoibG9jYWxob3N0IiwiYXVkIjoibG9jYWxob3N0IiwiaWF0IjoxNTYxODMwMzcyLCJleHAiOjE1NjE5MTY3NzJ9.MokRi2a72iP3KJtLqz-3Hz_azPhTLllwgUKIs4RKhSo",
+      "user_id": "1",
+      "row_created": "2019-06-29T19:46:12+02:00"
+    }
+  ]
+}

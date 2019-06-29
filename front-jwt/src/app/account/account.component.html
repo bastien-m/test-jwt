@@ -1,0 +1,5 @@
+<form [formGroup]="accountForm">
+  <mat-form-field *ngFor="let field of fields">
+    <input [placeholder]="field | uppercase" matInput [formControlName]="field" [value]="(account | async)[field]">
+  </mat-form-field>
+</form>
