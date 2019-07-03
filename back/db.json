@@ -4,7 +4,7 @@
       "_id": "1",
       "firstname": "bastien",
       "lastname": "mercier",
-      "email": "bastien.mercier@capgemini.com",
+      "email": "xxxx@mail.com",
       "password": "$2b$10$8iZJwS5deu0jGbuMrBpqdODHa.f.x75fFkpErrEmI3j5LarXQH6i.",
       "tokens": {
         "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxIiwiaXNzIjoibG9jYWxob3N0IiwiYXVkIjoibG9jYWxob3N0IiwiaWF0IjoxNTYxODMwMzcyLCJleHAiOjE1NjE4MzAzODJ9.S-_P2TenX2V_ILWitzqsUKxdaVYy7kv_oQhGhRgv_Jk",
