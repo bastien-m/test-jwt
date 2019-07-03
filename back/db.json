@@ -2,8 +2,8 @@
   "users": [
     {
       "_id": "1",
-      "firstname": "bastien",
-      "lastname": "mercier",
+      "firstname": "xxx",
+      "lastname": "yyyy",
       "email": "xxxx@mail.com",
       "password": "$2b$10$8iZJwS5deu0jGbuMrBpqdODHa.f.x75fFkpErrEmI3j5LarXQH6i.",
       "tokens": {
